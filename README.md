@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Veena 👋
 
-<!--
-**veenawilfred24/veenawilfred24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst focused on Product Analytics.
 
-Here are some ideas to get you started:
+I work on:
+- Funnel analysis
+- Retention cohorts
+- A/B testing
+- User segmentation
+- Business-driven insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Product Analytics Case Study
+Analyzed e-commerce user behavior to identify conversion bottlenecks and product decisions.
+
+→ Key insight: conversion failure occurs before intent formation, not during checkout.
+
+### Student Engagement Analytics System
+Built an analytics system to identify at-risk users and improve retention.
+
+## Tech Stack
+
+- SQL
+- Python (pandas, NumPy)
+- Data visualization
+- Product analytics
+
+## Let's Connect
+
+- LinkedIn: [(add your link here)](https://www.linkedin.com/in/veenawilfred/)
