@@ -1,4 +1,4 @@
-# Hi, I'm Veena 👋
+# Hi, I'm Veena Wilfred 👋
 
 I'm a Data Analyst focused on Product Analytics.
 
