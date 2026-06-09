@@ -64,4 +64,4 @@ Focus: BI analytics, segmentation, decision support
 
 ## Let's Connect
 
-- LinkedIn: [(add your link here)](https://www.linkedin.com/in/veenawilfred/)
+- LinkedIn: [Veena Wilfred](https://www.linkedin.com/in/veenawilfred/)
